@@ -1,0 +1,39 @@
+{
+  "name": "doublemydonation.org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/bubinga/doublemydonation.org.git"
+  },
+  "author": "Bubinga, LLC",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bubinga/doublemydonation.org#readme",
+  "devDependencies": {
+    "babel": "6.5.2",
+    "browserify": "14.0.0",
+    "gulp": "3.9.1",
+    "gulp-pug": "3.2.0",
+    "gulp-sass": "3.1.0",
+    "gulp-sourcemaps": "2.4.0",
+    "gulp-typescript": "3.1.4",
+    "gulp-uglify": "2.0.1",
+    "gulp-util": "3.0.8",
+    "tsify": "3.0.1",
+    "typescript": "2.1.5",
+    "vinyl-buffer": "1.0.0",
+    "vinyl-source-stream": "1.1.0",
+    "watchify": "3.9.0",
+    "babel-preset-es2015": "6.22.0",
+    "babelify": "7.3.0",
+    "browser-sync": "2.18.7",
+    "lodash.assign": "4.2.0"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "6.22.0"
+  }
+}
