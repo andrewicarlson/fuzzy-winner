@@ -25,4 +25,7 @@ package.json
 ------- header.ts
 ```
 
-`npm install` to install, `gulp serve` to run the local server for development, `gulp` to build production files.
+1. `npm install gulp -g` if you haven't already
+2. `npm install` to install the project dependencies.
+3. `gulp serve` to run the local server for development.
+4. `gulp` to build production files
